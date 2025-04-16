@@ -12,5 +12,5 @@ go mod init 01-hello-world
 - We can manually run the app using following within project folder
 
 ```
-go run.
+go run .
 ```
